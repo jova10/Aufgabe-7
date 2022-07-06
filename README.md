@@ -12,3 +12,5 @@ and the html websites at
 http://localhost:5000/
 
 (all this with given that docker is set up on your PC aswell as in your IDE etc.)
+
+Link to the image on Docker Hub: https://hub.docker.com/r/jova10/aufgabe7
