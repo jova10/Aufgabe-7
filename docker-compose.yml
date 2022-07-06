@@ -2,9 +2,9 @@
 version: '3'
 services: 
     app: 
-        container_name: Aufgabe7
+        container_name: aufgabe7
         build: .
-        #image:
+        image: jova10/aufgabe7
         ports: 
             - '3000:4000'
         depends_on: 
